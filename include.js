@@ -748,6 +748,7 @@ let cards = [
 		author: 'Somechandra',
 		githubLink: 'https://github.com/somechandra'
 	},
+
 	{
 		artName: 'Circles Circling',
 		pageLink: './Art/pikktorr/index.html',
@@ -822,8 +823,8 @@ let cards = [
     artName: "Animatron",
     pageLink: "./Art/animatron/index.html",
     imageLink: "./Art/animatron/trance.gif",
-    author: "Andrei",
-    githubLink: "https://github.com/aneagoie"
+    author: "Igor",
+    githubLink: "https://github.com/igodev-ing"
   },
   {
     artName: "Loader Circle",
